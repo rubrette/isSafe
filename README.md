@@ -1,0 +1,2 @@
+# isSafe
+Lethean API isSafe
